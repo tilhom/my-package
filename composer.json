@@ -12,5 +12,7 @@
             "email": "1qadam@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
