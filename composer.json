@@ -1,0 +1,16 @@
+{
+    "name": "tilhom/my-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tilhom\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ITeshaboyev",
+            "email": "1qadam@mail.ru"
+        }
+    ],
+    "require": {}
+}
